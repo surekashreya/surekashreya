@@ -9,7 +9,7 @@
 
 <div>
 <img align= left src="https://github-readme-stats.vercel.app/api?username=surekashreya&show_icons=true"/>
-<img align= right src="https://github-readme-stats.vercel.app/api/top-langs?username=surekashreya"/>
+<img align= right src="https://github-readme-stats.vercel.app/api/top-langs?username=surekashreya"/>  
 </div>
 
 <div>
