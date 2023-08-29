@@ -57,7 +57,7 @@
 
 <div align="center">
   
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=surekashreya&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=surekashreya&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)  
 
  </div>
  
