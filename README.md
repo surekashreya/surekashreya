@@ -37,18 +37,18 @@
 ## 🚀 Projects
  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=surekashreya&repo=Ghar_ka_Khaana-Tiffin-service-webite-&show_icons=true&theme=great-gatsby" >
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=surekashreya&repo=Ghar_ka_Khaana-Tiffin-service-webite-&show_icons=true&theme=great-gatsby" >
 
 
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=surekashreya&repo=Sentiment-Analysis-NLP-&show_icons=true&theme=great-gatsby" >
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=surekashreya&repo=Sentiment-Analysis-NLP-&show_icons=true&theme=great-gatsby" >
 
 
 
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=surekashreya&repo=BrainTumor_Detection_Classification_Azure&show_icons=true&theme=great-gatsby"> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=surekashreya&repo=BrainTumor_Detection_Classification_Azure&show_icons=true&theme=great-gatsby"> 
   
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=surekashreya&repo=Weather-App&show_icons=true&theme=great-gatsby"> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=surekashreya&repo=Weather-App&show_icons=true&theme=great-gatsby"> 
   
   
 </div>
@@ -63,8 +63,8 @@
  
 
 
-<img align="left" alt="Shreya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=surekashreya&&show_icons=true&theme=dark" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surekashreya&layout=compact&theme=dark" width="46%" />
+<img align="left" alt="Shreya's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=surekashreya&&show_icons=true&theme=dark" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=surekashreya&layout=compact&theme=dark" width="46%" />
 <br>
 
 
